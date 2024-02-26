@@ -1,4 +1,4 @@
-- 👋 Hi my name is Václav Burda and I´m 17 old.
+- 👋 Hi my name is Václav Burda.
 - 🏫 I´m highschool student studying on SPŠ a VOŠ Brno Sokolská.
 - 🦾 My main focus besides my school is crafting and programming robots.
 - ⚜️ And I´m a Scout :)
